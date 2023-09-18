@@ -9,25 +9,15 @@
 </p>
 
 <p align="center">
-   <a href="https://cloud.cypress.io/projects/7s5okt/runs">
-    <img src="https://img.shields.io/endpoint?url=https://cloud.cypress.io/badge/detailed/7s5okt/develop&style=flat&logo=cypress" />
-  </a>
 
   <a href="https://codecov.io/gh/cypress-io/cypress-realworld-app">
     <img src="https://codecov.io/gh/cypress-io/cypress-realworld-app/branch/develop/graph/badge.svg" />
   </a>
 
-  <a href="https://percy.io/cypress-io/cypress-realworld-app">
-    <img src="https://percy.io/static/images/percy-badge.svg" />
-  </a>
-
-   <a href="#contributors-">
-    <img src="https://img.shields.io/badge/all_contributors-6-green.svg?style=flat" />
-  </a>
 </p>
 
 <p align="center">
-A payment application to demonstrate <strong>real-world</strong> usage of <a href="https://cypress.io">Cypress</a> testing methods, patterns, and workflows.
+A payment application to demonstrate <strong>real-world</strong> usage of <a href="https://cypress.io">Cypress</a>, adapted by Sean Long for the purpose of evaluating potential automation engineers for their Cypress knowledge.
 </p>
 
 <p align="center">
